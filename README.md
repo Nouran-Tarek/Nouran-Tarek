@@ -11,7 +11,8 @@ Currently working on analytics projects, building dashboards, and exploring data
 <a href="mailto:nour2tarek@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="200"/>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
